@@ -6,6 +6,7 @@ export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
       server: {
+        base: AI_learning_bud_v0.1,
         port: 3000,
         host: '0.0.0.0',
       },
