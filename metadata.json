@@ -1,0 +1,7 @@
+{
+  "name": "AI学伴",
+  "description": "一款面向 5-9 年级学生的平板端 AI 助学 App，包含智能任务流和心情追踪功能。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
